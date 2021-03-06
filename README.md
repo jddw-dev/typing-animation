@@ -11,7 +11,7 @@ You can have multiple words to display, in this case they will be displayed one 
 Then import in your source files :
 
 ```
-import TypingAnimation from 'jddw/typing-animation'
+import TypingAnimation from '@jddw/typing-animation'
 ```
 
 ## Usage
