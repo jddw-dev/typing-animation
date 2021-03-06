@@ -1,6 +1,6 @@
 {
   "name": "@jddw/typing-animation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React component offering a typing animation (from left to right, then reverse, with a simulated cursor)",
   "main": "dist/index.js",
   "scripts": {
